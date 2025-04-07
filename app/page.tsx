@@ -12,6 +12,10 @@ export default function Home() {
           href="/search"
           className="bg-blue-600 text-white px-6 py-3 rounded-xl text-lg font-semibold shadow hover:bg-blue-700 transition"
         >
+<a href="/search" className="...">
+  Search Therapists
+</a>
+        
           Search Therapists
         </a>
         <a
