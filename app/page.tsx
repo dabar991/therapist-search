@@ -22,6 +22,12 @@ export default function Home() {
           I'm a Counsellor
         </a>
       </div>
+        <a
+  href="/pricing"
+  className="border border-gray-500 text-gray-800 px-6 py-3 rounded-xl text-lg font-semibold hover:bg-gray-100 transition"
+>
+  Pricing
+</a>
       <div className="mt-16 w-full max-w-4xl">
         <img
           src="https://images.unsplash.com/photo-1588776814546-5c3a4173e2a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
