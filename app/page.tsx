@@ -14,9 +14,6 @@ export default function Home() {
         >
 <a href="/search" className="...">
   Search Therapists
-</a>
-        
-          Search Therapists
         </a>
         <a
           href="/signup"
