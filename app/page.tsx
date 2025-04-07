@@ -13,6 +13,14 @@ export default function Home() {
           className="bg-blue-600 text-white px-6 py-3 rounded-xl text-lg font-semibold shadow hover:bg-blue-700 transition"
         >
 <a href="/search" className="...">
+ </div>
+        <a
+  href="/pricing"
+  className="border border-gray-500 text-gray-800 px-6 py-3 rounded-xl text-lg font-semibold hover:bg-gray-100 transition"
+>
+  Pricing
+</a>
+  
   Search Therapists
         </a>
         <a
